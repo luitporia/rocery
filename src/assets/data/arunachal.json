@@ -1,0 +1,405 @@
+{
+    "name": "arunachal",
+    "display_name": "Arunachal Pradesh",
+    "places": [
+        {
+            "name": "itanagar",
+            "display_name": "Itanagar",
+            "title": "Itanagar, foothills of the Himalayas",
+            "desc_1": "Itanagar is the capital of the Indian state of Arunachal Pradesh. Itanagar is inhabited by a number of tribes viz., Nyishi, Adi, Apatani, Tagin, Galo, Monpa, idu Mishmi, singpho, aka, miji and lot more. Nyishis are the aboriginies of the city. Itanagar features a humid subtropical climate with dry, mild winters and warm, wet summers.",
+            "desc_2": null,
+            "sports": null,
+            "best_travel_time": "Throughout the year but Summer is recommended which prevails in the month of July and August. One of the very special attraction is Ziro Music Festival which usually happens in January.",
+            "reach_air": "Regular Helicopter service is available from Guwahati to Naharlagun (Itanagar). Prime Minister Narendra Modi laid the foundation stone for the greenfield Itanagar Airport at Hollongi on 9 February 2019.",
+            "reach_road": "National Highway 415 connects Itanagar to Assam and rest of the world. Regular bus and Innova services are available from Guwahati and Lokpriya Gopinath Bordoloi International Airport.",
+            "reach_railway": "The train station is at Naharlagun.",
+            "reach_waterways": null,
+            "seo_title": "Itanagar weather, best time to visit, accommodations and events",
+            "seo_keywords": "Itanagar, Arunachal Pradesh tourism, North East India tourism, John Abraham",
+            "seo_desc": "Itanagar is an enchanting tourist destination in Arunachal Pradesh. Located in eastern mountaing range of Himalayas, surrounded by natural grandeur, it provides a plenty of activities for nature and adventure lovers.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/arunachal/gallery/ziro-kile-pakho.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/ziro-kile-pakho.jpg",
+                    "big": "assets/images/static/arunachal/gallery/ziro-kile-pakho.jpg",
+                    "description": "Kile Pakho"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/ziro-waterfall.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/ziro-waterfall.jpg",
+                    "big": "assets/images/static/arunachal/gallery/ziro-waterfall.jpg",
+                    "description": "Ziro Waterfall"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/ziro-dolo-mando.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/ziro-dolo-mando.jpg",
+                    "big": "assets/images/static/arunachal/gallery/ziro-dolo-mando.jpg",
+                    "description": "Dolo Mando"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/ziro-bamboo-groove.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/ziro-bamboo-groove.jpg",
+                    "big": "assets/images/static/arunachal/gallery/ziro-bamboo-groove.jpg",
+                    "description": "Bamboo Groove"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/ziro-talley-valley-wildlife.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/ziro-talley-valley-wildlife.jpg",
+                    "big": "assets/images/static/arunachal/gallery/ziro-talley-valley-wildlife.jpg",
+                    "description": "Talley Valley Wildlife Sanctuary"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Cygnett Inn Trendz",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/itanagar-cygnett-inn.JPG",
+                            "medium": "assets/images/static/arunachal/accommodation/itanagar-cygnett-inn.JPG",
+                            "big": "assets/images/static/arunachal/accommodation/itanagar-cygnett-inn.JPG",
+                            "description": "Cygnett Inn Trendz"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/itanagar-cygnett-inn-bedroom.JPG",
+                            "medium": "assets/images/static/arunachal/accommodation/itanagar-cygnett-inn-bedroom.JPG",
+                            "big": "assets/images/static/arunachal/accommodation/itanagar-cygnett-inn-bedroom.JPG",
+                            "description": "Cygnett Inn Trendz"
+                        }
+                    ]
+                },
+                {
+                    "name": "Waii International Hotel",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/itanagar-waii-international-hotel.JPG",
+                            "medium": "assets/images/static/arunachal/accommodation/itanagar-waii-international-hotel.JPG",
+                            "big": "assets/images/static/arunachal/accommodation/itanagar-waii-international-hotel.JPG",
+                            "description": "Waii International Hotel"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/itanagar-waii-international-hotel-pool.JPG",
+                            "medium": "assets/images/static/arunachal/accommodation/itanagar-waii-international-hotel-pool.JPG",
+                            "big": "assets/images/static/arunachal/accommodation/itanagar-waii-international-hotel-pool.JPG",
+                            "description": "Waii International Hotel"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/itanagar-waii-international-hotel-bedroom.JPG",
+                            "medium": "assets/images/static/arunachal/accommodation/itanagar-waii-international-hotel-bedroom.JPG",
+                            "big": "assets/images/static/arunachal/accommodation/itanagar-waii-international-hotel-bedroom.JPG",
+                            "description": "Waii International Hotel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "mechuka",
+            "display_name": "Mechuka",
+            "title": "Mechuka, Beautiful Landscapes",
+            "desc_1": "Mechuka is a small town nestled 6,000 feet (1,829 m) above sea level in the Mechuka Valley in West Siang District of Arunachal Pradesh, India. It is the largest last town in Arunachal Pradesh, after Menchuka the McMahon border separates Indian territory and Chinese territory. Mechuka is situated in a forested valley, surrounded by pine trees and thornbushes. The river Yargyapchu flows in the valley of Mechuka. Mechuka is 180 kilometres northwest of Along and is only 29 kilometres away from Indo-China border.",
+            "desc_2": "Mechukha is gradually becoming a popular tourist destination in Arunachal Pradesh due to its scenic beauty, exotic tribes, gentle hills and snow-capped mountains and River Siyom (locally known as Yargyap Chu). The Siom River, which flows through Mechukha also provides a scenic view in the valley.",
+            "sports": null,
+            "best_travel_time": "Throughout the year but Summer is recommended which prevails in the month of July and August. Winter in extremely cold.",
+            "reach_air": null,
+            "reach_road": "Mechukha has recently been connected by road to Along, the district headquarters about 180 km away, leading to increased development in the area. Many rental services are also available from closest towns like Dibrugarh, Duliajan, Tinsukia, Lakhimpur etc. from Assam.",
+            "reach_railway": null,
+            "reach_waterways": null,
+            "seo_title": "Mechuka Arunachal weather, best time to visit, hotels and homestays",
+            "seo_keywords": "Mechuka, Arunachal Pradesh tourism, North East India tourism, John Abraham",
+            "seo_desc": "Mechuka is a forested valley surrounded by pine trees and thornbushes located in Shi-Yomi District of Arunachal Pradesh near to Indo-China border.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/arunachal/gallery/mechuka-valley.png",
+                    "medium": "assets/images/static/arunachal/gallery/mechuka-valley.png",
+                    "big": "assets/images/static/arunachal/gallery/mechuka-valley.png"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/mechuka-village.png",
+                    "medium": "assets/images/static/arunachal/gallery/mechuka-village.png",
+                    "big": "assets/images/static/arunachal/gallery/mechuka-village.png"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/mechuka-sky.png",
+                    "medium": "assets/images/static/arunachal/gallery/mechuka-sky.png",
+                    "big": "assets/images/static/arunachal/gallery/mechuka-sky.png"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/mechuka-lake.png",
+                    "medium": "assets/images/static/arunachal/gallery/mechuka-lake.png",
+                    "big": "assets/images/static/arunachal/gallery/mechuka-lake.png"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/mechuka-bridge.png",
+                    "medium": "assets/images/static/arunachal/gallery/mechuka-bridge.png",
+                    "big": "assets/images/static/arunachal/gallery/mechuka-bridge.png"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Gayaboo’s Traditional Homestay",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/mechuka-gayaboo-homestay.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/mechuka-gayaboo-homestay.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/mechuka-gayaboo-homestay.jpg",
+                            "description": "Gayaboo’s Traditional Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/mechuka-gayaboo-homestay-1.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/mechuka-gayaboo-homestay-1.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/mechuka-gayaboo-homestay-1.jpg",
+                            "description": "Gayaboo’s Traditional Homestay"
+                        }
+                    ]
+                },
+                {
+                    "name": "Yargyap Chhu Homestay",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/mechuka-yargyap-homestay.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/mechuka-yargyap-homestay.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/mechuka-yargyap-homestay.jpg",
+                            "description": "Yargyap Chhu Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/mechuka-yargyap-homestay-2.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/mechuka-yargyap-homestay-2.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/mechuka-yargyap-homestay-2.jpg",
+                            "description": "Yargyap Chhu Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/mechuka-yargyap-homestay-1.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/mechuka-yargyap-homestay-1.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/mechuka-yargyap-homestay-1.jpg",
+                            "description": "Yargyap Chhu Homestay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "tawang",
+            "display_name": "Tawang",
+            "title": "Tawang, Birth place of Dalai Lama",
+            "desc_1": "Tawang is a town in the Indian state of Arunachal Pradesh, situated at an elevation of approximately 3,048 metres (10,000 ft) to the east of Bhutan. The town once served as the district headquarters of West Kameng district, and became the district headquarters of Tawang district when it was formed from West Kameng.",
+            "desc_2": null,
+            "sports": null,
+            "best_travel_time": "Throughout the year but Summer is recommended which prevails in the month of July and August. Winter in extremely cold.",
+            "reach_air": null,
+            "reach_road": "Tawang receives snowfall every year during December–January. There is also a ski lift in town. Visitors to Tawang, as is the case with the entire Arunachal Pradesh, require special Inner Line Permit (ILP) issued by the concerned government body and can be obtained from offices based in Kolkata, Guwahati, Tezpur, and New Delhi. Most of the travel from the plains is on a steep hill road journey, crossing Sela Pass at 4,176 metres (13,701 ft). Tourists can travel to Tawang from Tezpur, Assam by road and Tezpur has direct flights from Kolkata. In Oct 2014, two times a week helicopter service from Guwahati was started by the Arunachal Pradesh government.",
+            "reach_railway": null,
+            "reach_waterways": null,
+            "seo_title": "Tawang weather, best time to visit, hotels and homestays",
+            "seo_keywords": "Tawang, Arunachal Pradesh tourism, North East India tourism, John Abraham",
+            "seo_desc": "Tawang is the adventure capital of Arunachal Pradesh, nestled in the lap of snowy mountains and breath taking views. Every year thousands of domestic and foreign tourist visit Tawang. A road trip from Tezpur to Tawang should be on everyone bucket list.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/arunachal/gallery/tawang-monastery.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/tawang-monastery.jpg",
+                    "big": "assets/images/static/arunachal/gallery/tawang-monastery.jpg"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/tawang-gate.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/tawang-gate.jpg",
+                    "big": "assets/images/static/arunachal/gallery/tawang-gate.jpg"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/tawang-lake.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/tawang-lake.jpg",
+                    "big": "assets/images/static/arunachal/gallery/tawang-lake.jpg"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/tawang-ariel.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/tawang-ariel.jpg",
+                    "big": "assets/images/static/arunachal/gallery/tawang-ariel.jpg"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/tawang-road.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/tawang-road.jpg",
+                    "big": "assets/images/static/arunachal/gallery/tawang-road.jpg"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Dondrub Homestay",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking",
+                        "wifi"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/tawang-dondurb-homestay.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/tawang-dondurb-homestay.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/tawang-dondurb-homestay.jpg",
+                            "description": "Dondrub Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/tawang-dondurb-homestay-bedroom.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/tawang-dondurb-homestay-bedroom.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/tawang-dondurb-homestay-bedroom.jpg",
+                            "description": "Dondrub Homestay"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jambey Villa Homestay",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/tawang-jambey-villa.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/tawang-jambey-villa.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/tawang-jambey-villa.jpg",
+                            "description": "Jambey Villa Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/tawang-jambey-villa-bedroom.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/tawang-jambey-villa-bedroom.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/tawang-jambey-villa-bedroom.jpg",
+                            "description": "Jambey Villa Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/tawang-jambey-villa-night.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/tawang-jambey-villa-night.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/tawang-jambey-villa-night.jpg",
+                            "description": "Jambey Villa Homestay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ziro",
+            "display_name": "Ziro",
+            "title": "Ziro, World heritage site",
+            "desc_1": "Ziro is the census town in Lower Subansiri district in the Indian state of Arunachal Pradesh. It has been a favourite town for World Heritage Site for a number of years now. Its cool weather in summer is its major attraction. It is famous for its pine-clad gentle hills around it and rice field all around. Ziro is home to the Apatani tribe.",
+            "desc_2": null,
+            "sports": null,
+            "best_travel_time": "Throughout the year but Summer is recommended which prevails in the month of July and August. One of the very special attraction is Ziro Music Festival which usually happens in January.",
+            "reach_air": "The nearest airport to the settlement is Lilabari, in North Lakhimpur district of Assam.",
+            "reach_road": "Ziro is around 115 km from the state capital Itanagar and takes approx 3 and a half hours via the improved Hoj-Potin road along NH229 and 150 km via the Assam route. Earlier the nearest railway station from Ziro was located at Naharlagun in Arunachal Pradesh near the Arunachal-Assam border which is around 100 km from Ziro.",
+            "reach_railway": null,
+            "reach_waterways": null,
+            "seo_title": "Ziro weather, Ziro music festival, hotels and homestays",
+            "seo_keywords": "Ziro, Arunachal Pradesh tourism, North East India tourism, John Abraham",
+            "seo_desc": "Ziro Valley, a World heritage site is an enchanting tourist destination in Arunachal Pradesh. It is famous for its pine-clad gentle hills and rice fields all around. Its a paradise for nature lover and photographers.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/arunachal/gallery/ziro-kile-pakho.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/ziro-kile-pakho.jpg",
+                    "big": "assets/images/static/arunachal/gallery/ziro-kile-pakho.jpg"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/ziro-waterfall.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/ziro-waterfall.jpg",
+                    "big": "assets/images/static/arunachal/gallery/ziro-waterfall.jpg"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/ziro-dolo-mando.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/ziro-dolo-mando.jpg",
+                    "big": "assets/images/static/arunachal/gallery/ziro-dolo-mando.jpg"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/ziro-talley-valley-wildlife.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/ziro-talley-valley-wildlife.jpg",
+                    "big": "assets/images/static/arunachal/gallery/ziro-talley-valley-wildlife.jpg"
+                },
+                {
+                    "small": "assets/images/static/arunachal/gallery/ziro-bamboo-groove.jpg",
+                    "medium": "assets/images/static/arunachal/gallery/ziro-bamboo-groove.jpg",
+                    "big": "assets/images/static/arunachal/gallery/ziro-bamboo-groove.jpg"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Siiro Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/ziro-siiro-resort.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/ziro-siiro-resort.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/ziro-siiro-resort.jpg",
+                            "description": "Siiro Resort"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/ziro-siiro-resort-bedroom.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/ziro-siiro-resort-bedroom.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/ziro-siiro-resort-bedroom.jpg",
+                            "description": "Siiro Resort"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hotel Blue Pine",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine.jpg",
+                            "description": "Hotel Blue Pine"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine-bedroom.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine-bedroom.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine-bedroom.jpg",
+                            "description": "Hotel Blue Pine"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine-dining.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine-dining.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine-dining.jpg",
+                            "description": "Hotel Blue Pine"
+                        },
+                        {
+                            "small": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine-living.jpg",
+                            "medium": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine-living.jpg",
+                            "big": "assets/images/static/arunachal/accommodation/ziro-hotel-blue-pine-living.jpg",
+                            "description": "Hotel Blue Pine"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

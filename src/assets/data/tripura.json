@@ -1,0 +1,79 @@
+{
+    "name": "tripura",
+    "display_name": "Tripura",
+    "places": [
+        {
+            "name": "agartala",
+            "display_name": "Agartala",
+            "title": "Agartala, home of the Manikya Kings",
+            "desc_1": "Agartala is the capital of the Indian state of Tripura and is the second largest city and municipal body in northeastern India after Guwahati. Agartala is a derivative of two words, namely Agar, a valuable perfume and incense tree of genus Aquilaria, and the suffix Tala, meaning underneath, a reference to the density of Agarwood trees in the region. Agartala lies on the bank of the Haora River and is located 2 km from the Bangladesh Border. Agartala is India's third international internet gateway after the ones in Mumbai and Chennai.",
+            "desc_2": null,
+            "sports": null,
+            "best_travel_time": "The best time to visit is from September to February. Summers are quite long and is extremely hot with a scorching sun and warm day. Rain is very common in this season and the city sometime remains or can be found flooded. The river Haora flows through the city and remains flooded with water during the time of monsoon. Average temperatures are around 28 °C or 82.4 °F, fluctuating with rainfall. There is a short, mild winter from mid-November to early March, with mostly dry conditions and average temperatures around 18 °C (64 °F).",
+            "reach_air": "Agartala is connected to other cities in India by air via Maharaja Bir Bikram Kishore Manikya Airport (Agartala Airport). There are direct flight connections to Kolkata, Imphal, Delhi, Guwahati, Bangalore, Visakhapatnam, Coimbatore and Chennai. Agartala airport is the second busiest airport in northeast India after Guwahati International Airport in Assam. The airport is located in Singerbhil 12.5 km (6.7 nautical miles) northwest from the heart of the city of Agartala. The major airlines are Air India, IndiGo. The airport is under construction to make it the 3rd international airport after Guwahati and Imphal.",
+            "reach_road": "National Highway 8 connects Agartala to Assam and the rest of India by road, also known as the lifeline of Tripura. The highways (NH44, NH 44A) connects Agartala with Silchar (317 km), Guwahati (599 km), Shillong (499 km), Dharmanagar (200 km) and Aizawl (443 km). A bus service connects it to Dhaka (150 km). National Highway 44 (India) – Connected to Tripura to Shillong & tripura(NH 44A), National Highway 44A (India) – Connected to Tripura to tripura. Agartala is well connected by road to other parts of Tripura state. National Highway 44 has been extended to the south, thus improving the road connectivity between Agartala and south Tripura. Buses, Jeeps, Trekkers and SUVs are the most common public carriers,[citation needed] and cars and vans are usually used for private hire. The main mode of public transportation within the city consists of a network of cycle rickshaws, auto rickshaws and buses.",
+            "reach_railway": "Agartala has been connected to other cities in India by the Agartala Railway Station.",
+            "reach_waterways": null,
+            "seo_title": "Agartala, best time to visit, accommodations and events",
+            "seo_keywords": "Agartala, Tripura tourism, North East India tourism, Tripura Capital, Manikya Dynasty",
+            "seo_desc": "Agartala is India's third international internet gateway after the ones in Mumbai and Chennai. One of the famous museum Ujjayanta Palace is located here.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/tripura/gallery/agartala-greenery.jpg",
+                    "medium": "assets/images/static/tripura/gallery/agartala-greenery.jpg",
+                    "big": "assets/images/static/tripura/gallery/agartala-greenery.jpg",
+                    "description": "Photo by Sourav Debnath on Unsplash"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Ginger Hotel",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking",
+                        "wifi"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/tripura/accommodation/agartala-ginger-hotel.JPG",
+                            "medium": "assets/images/static/tripura/accommodation/agartala-ginger-hotel.JPG",
+                            "big": "assets/images/static/tripura/accommodation/agartala-ginger-hotel.JPG",
+                            "description": "Ginger Hotel"
+                        },
+                        {
+                            "small": "assets/images/static/tripura/accommodation/agartala-ginger-hotel-bedroom.JPG",
+                            "medium": "assets/images/static/tripura/accommodation/agartala-ginger-hotel-bedroom.JPG",
+                            "big": "assets/images/static/tripura/accommodation/agartala-ginger-hotel-bedroom.JPG",
+                            "description": "Ginger Hotel"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hotel Sonar Tori",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant",
+                        "gym"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/tripura/accommodation/agartala-hotel-sonar-tori.JPG",
+                            "medium": "assets/images/static/tripura/accommodation/agartala-hotel-sonar-tori.JPG",
+                            "big": "assets/images/static/tripura/accommodation/agartala-hotel-sonar-tori.JPG",
+                            "description": "Hotel Sonar Tori"
+                        },
+                        {
+                            "small": "assets/images/static/tripura/accommodation/agartala-hotel-sonar-tori-bedroom.JPG",
+                            "medium": "assets/images/static/tripura/accommodation/agartala-hotel-sonar-tori-bedroom.JPG",
+                            "big": "assets/images/static/tripura/accommodation/agartala-hotel-sonar-tori-bedroom.JPG",
+                            "description": "Hotel Sonar Tori"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

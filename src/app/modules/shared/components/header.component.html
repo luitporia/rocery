@@ -1,0 +1,51 @@
+<nav class="navbar navbar-default">
+    <div>
+
+        <!-- Header -->
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#topNavBar">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#" routerLink="/" title="rocery.in, get the best local food"><span
+                    class="brand"><img src="assets/images/rosery-logo-main.png" alt="rocery logo
+            "></span></a>
+        </div>
+        <!-- Search Bar -->
+        <form class="navbar-form navbar-left" action="/action_page.php">
+            <div class="input-group" style="padding: 0px 10px 0px 10px;">
+                <input type="text" class="form-control" placeholder="Search Food">
+                <span class="input-group-btn">
+                    <button class="btn btn-default" type="submit">
+                        <i class="fa fa-search fa-maroon"></i>
+                    </button>
+                </span>
+            </div>
+        </form>
+
+        <!-- Items -->
+        <div class="collapse navbar-collapse" id="topNavBar">
+            <ul class="nav navbar-nav navbar-right">
+                <li id="liPlaces" class="">
+                    <a href="javascript:void(0);" routerLink="/india/north-east/places">
+                        <span class="fa fa-shopping-cart fa-maroon" aria-hidden="true"></span>&nbsp; Cart
+                    </a>
+                </li>
+                <li id="liPlaces" class="">
+                    <a href="javascript:void(0);" routerLink="/india/north-east/places">
+                        <span class="fa fa-phone fa-maroon" aria-hidden="true"></span>&nbsp; +91 6000325658
+                    </a>
+                </li>
+                <li id="liPlaces" class="">
+                    <a href="javascript:void(0);" routerLink="/india/north-east/places">
+                        <span class="fa fa-sign-in-alt fa-maroon" aria-hidden="true"></span>&nbsp; My Profile
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</nav>
+<!-- Load Login/Register Modal 
+<app-login (sessionData)="getSessionData($event)"></app-login>-->

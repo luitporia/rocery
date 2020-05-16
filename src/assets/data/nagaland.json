@@ -1,0 +1,302 @@
+{
+    "name": "nagaland",
+    "display_name": "Nagaland",
+    "places": [
+        {
+            "name": "kohima",
+            "display_name": "Kohima",
+            "title": "Kohima, the land of Nagas",
+            "desc_1": "Kohima, is the hilly capital city of India's north eastern state of Nagaland. Kohima is the land of the Angami Naga and Rengma Naga tribe. It is situated in the foothills of Japfu range.",
+            "desc_2": null,
+            "sports": null,
+            "best_travel_time": "October to April. Summer is hot and also heavy rainfall occur during summer.",
+            "reach_air": "The nearest airport is Dimapur Airport at Dimapur about 74 kilometres (46 miles) away.",
+            "reach_road": "Kohima is connected by road with National Highways 2 and 29 passing through the city.",
+            "reach_railway": "Kohima is not connected with the rail network. The nearest railway station is at Dimapur.",
+            "reach_waterways": null,
+            "seo_title": "Kohima, weather, best time to visit, accommodations and events",
+            "seo_keywords": "Kohima, Nagaland tourism, North East India tourism, naga tribes, naga chilli",
+            "seo_desc": "Kohima, is the hilly capital city of India's north eastern state of Nagaland. Kohima is the land of the Angami Naga and Rengma Naga tribe. It is situated in the foothills of Japfu range.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/nagaland/gallery/nagaland-kohima-gate.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/nagaland-kohima-gate.jpg",
+                    "big": "assets/images/static/nagaland/gallery/nagaland-kohima-gate.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                },
+                {
+                    "small": "assets/images/static/nagaland/gallery/kohima-town.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/kohima-town.jpg",
+                    "big": "assets/images/static/nagaland/gallery/kohima-town.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                },
+                {
+                    "small": "assets/images/static/nagaland/gallery/nagaland-valley.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/nagaland-valley.jpg",
+                    "big": "assets/images/static/nagaland/gallery/nagaland-valley.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                },
+                {
+                    "small": "assets/images/static/nagaland/gallery/nagaland-valley-of-flowers.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/nagaland-valley-of-flowers.jpg",
+                    "big": "assets/images/static/nagaland/gallery/nagaland-valley-of-flowers.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Hotel Vivor",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant",
+                        "parking",
+                        "wifi",
+                        "handicap",
+                        "reception",
+                        "airport-shuttle"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor.JPG",
+                            "description": "Hotel Vivor"
+                        },
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor-dining.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor-dining.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor-dining.JPG",
+                            "description": "Hotel Vivor"
+                        }
+                    ]
+                },
+                {
+                    "name": "De Oriental Grand",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant",
+                        "parking",
+                        "wifi",
+                        "handicap",
+                        "reception",
+                        "business-center"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/kohima-hotel-de-oriental-grand.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/kohima-hotel-de-oriental-grand.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/kohima-hotel-de-oriental-grand.JPG",
+                            "description": "De Oriental Grand"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "dimapur",
+            "display_name": "Dimapur",
+            "title": "Dimapur, brick city",
+            "desc_1": "Dimapur is the largest city in Nagaland, India. Contrary to popular belief, the city's formation in Nagaland is separate from that of Assam. In the Middle Ages, it was the capital of the Kachari Kingdom. In the heart of the town there is an old relic of the Kachari Kingdom which speaks about the once prosperous era. The name Dimapur is derived from the Kachari language; Di means 'water', ma means 'large' and pur (sanskritised word) means 'city', translating to 'Big-river-city', associated with the meaning of 'Kachari' which is 'people of the river valley' and after the river which flows through it (Dhansiri).",
+            "desc_2": null,
+            "sports": null,
+            "best_travel_time": "November to April. Dimapur is hot and humid in summers and moderately cold in winters.",
+            "reach_air": "Dimapur Airport is located at 3rd mile (NH 39). It is the only civil airport in the state and has flights to Kolkata and Delhi. There are plans for expansion of the airport to meet international norms by buying land at Aoyimti village. Maintained by the Airports Authority of India, it is an important trade and commercial centre on National Highway No. 39, and wears a rather cosmopolitan look.",
+            "reach_road": "The National Highway 39 that connects Kohima, Imphal and the Myanmar border at Moreh runs through Dimapur. NH 36 starts from Dimapur connecting Doboka and later Guwahati via NH 37.",
+            "reach_railway": "Dimapur is the only city in Nagaland that is connected by both rail and air. There are direct train services to cities like Guwahati, Kolkata, New Delhi, Bangalore, Chandigarh, Amritsar, Dibrugarh and Chennai from the Dimapur railway station. The station is categorised as an A category railway station which lies on the Lumding-Dibrugarh section under the Lumding railway division of Northeast Frontier Railway.",
+            "reach_waterways": null,
+            "seo_title": "Dimapur, weather, best time to visit, accommodations and events",
+            "seo_keywords": "Dimapur, Nagaland tourism, North East India tourism, Kachari Kingdom, Dimasa",
+            "seo_desc": "Dimapur is the largest city in Nagaland. In the Middle Ages, it was the capital of the Kachari Kingdom.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/nagaland/gallery/dimapur-kachari-ruins.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/dimapur-kachari-ruins.jpg",
+                    "big": "assets/images/static/nagaland/gallery/dimapur-kachari-ruins.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                },
+                {
+                    "small": "assets/images/static/nagaland/gallery/nagaland-kohima-gate.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/nagaland-kohima-gate.jpg",
+                    "big": "assets/images/static/nagaland/gallery/nagaland-kohima-gate.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                },
+                {
+                    "small": "assets/images/static/nagaland/gallery/dimapur-green-park.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/dimapur-green-park.jpg",
+                    "big": "assets/images/static/nagaland/gallery/dimapur-green-park.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                },
+                {
+                    "small": "assets/images/static/nagaland/gallery/dimapur-city.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/dimapur-city.jpg",
+                    "big": "assets/images/static/nagaland/gallery/dimapur-city.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Niathu Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "free-breakfast",
+                        "parking",
+                        "wifi",
+                        "swimming-pool"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/dimapur-niathu-resort.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/dimapur-niathu-resort.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/dimapur-niathu-resort.JPG",
+                            "description": "Niathu Resort"
+                        },
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/dimapur-niathu-resort-swimming-pool.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/dimapur-niathu-resort-swimming-pool.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/dimapur-niathu-resort-swimming-pool.JPG",
+                            "description": "Niathu Resort"
+                        },
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/dimapur-niathu-resort-bedroom.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/dimapur-niathu-resort-bedroom.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/dimapur-niathu-resort-bedroom.JPG",
+                            "description": "Niathu Resort"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hotel Lake Shilloi",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "free-breakfast",
+                        "parking",
+                        "wifi",
+                        "swimming-pool"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/dimapur-hotel-lake-shilloi.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/dimapur-hotel-lake-shilloi.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/dimapur-hotel-lake-shilloi.JPG",
+                            "description": "Hotel Lake Shilloi"
+                        },
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/dimapur-hotel-lake-shilloi-swimming-pool.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/dimapur-hotel-lake-shilloi-swimming-pool.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/dimapur-hotel-lake-shilloi-swimming-pool.JPG",
+                            "description": "Hotel Lake Shilloi"
+                        },
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/dimapur-hotel-lake-shilloi-dining.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/dimapur-hotel-lake-shilloi-dining.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/dimapur-hotel-lake-shilloi-dining.JPG",
+                            "description": "Hotel Lake Shilloi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "dzukou-valley",
+            "display_name": "Dzukou Valley",
+            "title": "Dzukou Valley, go for a hike",
+            "desc_1": "The Dzükou/Dzüko Valley is a valley located at the border of the states of Manipur and Nagaland in northeast India. This valley is well known for its natural environment, seasonal flowers and flora and fauna. It is situated at an altitude of 2452 m above sea level. The rare Dzükou Lily is found only in this valley. The valley is famous for its wide range of flower in every season. But the most famous one is the Dzükou lily.",
+            "desc_2": null,
+            "sports": null,
+            "best_travel_time": "July to October. At this time flowers are in bloom. Will experience rainfall as well. Winter is very cold.",
+            "reach_air": null,
+            "reach_road": "The main entry point is Viswema village. The nearest town is Zakhama. People can hire taxi from Zakhama to Dzukou Valley entry point which is around 4.5 KMs.",
+            "reach_railway": null,
+            "reach_waterways": null,
+            "seo_title": "Dzukou valley, weather, best time to visit, hike",
+            "seo_keywords": "Dzukou valley, Nagaland tourism, North East India tourism, hike, camping, star gazing",
+            "seo_desc": "The Dzükou/Dzüko Valley is a valley located at the border of the states of Manipur and Nagaland in northeast India. This valley is well known for its natural environment, seasonal flowers and flora and fauna. Its a pradise for hikers and nature lover.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/nagaland/gallery/kohima-mountains.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/kohima-mountains.jpg",
+                    "big": "assets/images/static/nagaland/gallery/kohima-mountains.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                },
+                {
+                    "small": "assets/images/static/nagaland/gallery/dzukou-valley-hill.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/dzukou-valley-hill.jpg",
+                    "big": "assets/images/static/nagaland/gallery/dzukou-valley-hill.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                },
+                {
+                    "small": "assets/images/static/nagaland/gallery/shrui-lily.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/shrui-lily.jpg",
+                    "big": "assets/images/static/nagaland/gallery/shrui-lily.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                },
+                {
+                    "small": "assets/images/static/nagaland/gallery/enjoy-nagaland.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/enjoy-nagaland.jpg",
+                    "big": "assets/images/static/nagaland/gallery/enjoy-nagaland.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                },
+                {
+                    "small": "assets/images/static/nagaland/gallery/nagaland-valley-of-flowers.jpg",
+                    "medium": "assets/images/static/nagaland/gallery/nagaland-valley-of-flowers.jpg",
+                    "big": "assets/images/static/nagaland/gallery/nagaland-valley-of-flowers.jpg",
+                    "description": "Photo by Gitartha Gogoi"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Hotel Vivor",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant",
+                        "parking",
+                        "wifi",
+                        "handicap",
+                        "reception",
+                        "airport-shuttle"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor.JPG",
+                            "description": "Hotel Vivor"
+                        },
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor-dining.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor-dining.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/kohima-hotel-vivor-dining.JPG",
+                            "description": "Hotel Vivor"
+                        }
+                    ]
+                },
+                {
+                    "name": "De Oriental Grand",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant",
+                        "parking",
+                        "wifi",
+                        "handicap",
+                        "reception",
+                        "business-center"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/nagaland/accommodation/kohima-hotel-de-oriental-grand.JPG",
+                            "medium": "assets/images/static/nagaland/accommodation/kohima-hotel-de-oriental-grand.JPG",
+                            "big": "assets/images/static/nagaland/accommodation/kohima-hotel-de-oriental-grand.JPG",
+                            "description": "De Oriental Grand"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

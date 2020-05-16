@@ -1,0 +1,97 @@
+{
+    "name": "mizoram",
+    "display_name": "Mizoram",
+    "places": [
+        {
+            "name": "aizawl",
+            "display_name": "Aizawl",
+            "title": "Aizawl, land of Mizo",
+            "desc_1": "Aizawl is the capital of the state of Mizoram in India. The population of Aizawl strongly reflects the different communities of the ethnic Mizo people. Aizawl features a humid subtropical climate but very rainy. In the summer the temperature ranges from 20–30 °C (68–86 °F), and in the winter 11–21 °C (52–70°F).",
+            "desc_2": "Domestic tourists require the Inner Line Permit (ILP) for entry into Mizoram, for persons other than Government employees. ILP can be obtained from the Liaison Officers in New Delhi, Kolkata, Mumbai, Guwahati, Shillong, and Silchar. It can also be obtained on arrival at the Lengpui Airport (nearest airport to Aizawl). Foreign nationals have to register themselves at the office of the Superintendent of the Police (CID/SB) of Mizoram within 24hours of arrival. However, citizens of China, Afghanistan, Bangladesh and Pakistan require prior approval of the Ministry of Home Affairs before entering the state.",
+            "sports": null,
+            "best_travel_time": "Throughout the year. October to April is preferred as summer is very hot and rainy.",
+            "reach_air": "Aizawl is connected by air transport through Lengpui Airport which it is situated near Aizawl. The airport provides connectivity to Kolkata Netaji Subhash Chandra Bose International Airport, Guwahati Lokpriya Gopinath Bordoloi International Airport, Shillong Airport and Imphal Imphal International Airport. Air India is the airline which services Lengpui Airport. A helicopter service by Pawan Hans was started in 2012 and connects the city with Lunglei, Lawngtlai, Saiha, Chawngte, Serchhip, Champhai, Kolasib, Khawzawl, Ngopa and Hnahthial.",
+            "reach_road": "Mizoram is connected by railroad up to Bairabi, there are plans to connect Bairabi with Sairang with broad gauge railway track, near Aizawl. The government has also started a broad gauge Bairabi Sairang Railway connection for better connectivity in the state. There is also the plan for 5 km long Aizawl Monorail running between Zemabawk to Kulikawn.",
+            "reach_railway": "Aizawl is connected by road with Silchar through National Highway 54, with Agartala through National Highway 40 and with Imphal through National Highway 150. The yellow-and-white taxis are widely available; Maruti cars are most widely used. Privately owned blue-and-white mini buses are on regular service as city buses.",
+            "reach_waterways": null,
+            "seo_title": "Aizawl city, weather, best time to visit, accommodations and events",
+            "seo_keywords": "Aizawl, Mizoram tourism, North East India tourism, Aizawl FC",
+            "seo_desc": "Aizawl, the home of Aizawl FC and is the capital city of Mizoram. Aizawl is sarrounded by green mountains and valleys, a perfect destination for adventurist and photographers.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/mizoram/gallery/aizawl-river.jpg",
+                    "medium": "assets/images/static/mizoram/gallery/aizawl-river.jpg",
+                    "big": "assets/images/static/mizoram/gallery/aizawl-river.jpg",
+                    "description": "Photo by Sayan Nath on Unsplash"
+                },
+                {
+                    "small": "assets/images/static/mizoram/gallery/aizawl-landscape.jpg",
+                    "medium": "assets/images/static/mizoram/gallery/aizawl-landscape.jpg",
+                    "big": "assets/images/static/mizoram/gallery/aizawl-landscape.jpg",
+                    "description": "Photo by Sayan Nath on Unsplash"
+                },
+                {
+                    "small": "assets/images/static/mizoram/gallery/aizawl-morning.jpg",
+                    "medium": "assets/images/static/mizoram/gallery/aizawl-morning.jpg",
+                    "big": "assets/images/static/mizoram/gallery/aizawl-morning.jpg",
+                    "description": "Photo by Sayan Nath on Unsplash"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "The Grand Hotel",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking",
+                        "wifi"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/mizoram/accommodation/aizawl-the-grand-hotel.JPG",
+                            "medium": "assets/images/static/mizoram/accommodation/aizawl-the-grand-hotel.JPG",
+                            "big": "assets/images/static/mizoram/accommodation/aizawl-the-grand-hotel.JPG",
+                            "description": "The Grand Hotel"
+                        },
+                        {
+                            "small": "assets/images/static/mizoram/accommodation/aizawl-the-grand-hotel-bedroom.JPG",
+                            "medium": "assets/images/static/mizoram/accommodation/aizawl-the-grand-hotel-bedroom.JPG",
+                            "big": "assets/images/static/mizoram/accommodation/aizawl-the-grand-hotel-bedroom.JPG",
+                            "description": "The Grand Hotel"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hotel Floria",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant",
+                        "gym"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/mizoram/accommodation/aizwal-hotel-flora.JPG",
+                            "medium": "assets/images/static/mizoram/accommodation/aizwal-hotel-flora.JPG",
+                            "big": "assets/images/static/mizoram/accommodation/aizwal-hotel-flora.JPG",
+                            "description": "Hotel Floria"
+                        },
+                        {
+                            "small": "assets/images/static/mizoram/accommodation/aizwal-hotel-flora-bedroom.JPG",
+                            "medium": "assets/images/static/mizoram/accommodation/aizwal-hotel-flora-bedroom.JPG",
+                            "big": "assets/images/static/mizoram/accommodation/aizwal-hotel-flora-bedroom.JPG",
+                            "description": "Hotel Floria"
+                        },
+                        {
+                            "small": "assets/images/static/mizoram/accommodation/aizwal-hotel-flora-dining.JPG",
+                            "medium": "assets/images/static/mizoram/accommodation/aizwal-hotel-flora-dining.JPG",
+                            "big": "assets/images/static/mizoram/accommodation/aizwal-hotel-flora-dining.JPG",
+                            "description": "Hotel Floria"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
