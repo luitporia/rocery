@@ -1,0 +1,742 @@
+{
+    "name": "assam",
+    "display_name": "Assam",
+    "places": [
+        {
+            "name": "gangtok",
+            "display_name": "Gangtok",
+            "title": "Gangtok, foothill of Himalayas",
+            "desc_1": "Gangtok, the capital and the largest town of the Indian state of Sikkim. Gangtok is located in the eastern Himalayan range, at an elevation of 1,650 m (5,410 ft). The town's population of 100,000 are from different ethnicities such as Nepalis, Lepchas and Bhutia. Nestled within higher peaks of the Himalaya and enjoying a year-round mild temperate climate, Gangtok is at the centre of Sikkim's tourism industry.",
+            "desc_2": null,
+            "sports": null,
+            "best_travel_time": "Throughout the year.",
+            "reach_air": "Pakyong Airport is a greenfield airport near Gangtok. The other closest airport is Bagdogra. Bagdogra airport is connected to major cities in India and regular flights are in and out from this airport everyday.",
+            "reach_road": "Gangtok is connected to the rest of India by an all-weather metalled highway, National Highway 10, earlier known as National Highway 31A, which links Gangtok to Siliguri, located 114 km (71 mi) away in the neighbouring state of West Bengal. Regular jeep, van, and bus services link these towns to Gangtok. The public transportation is well developed in the city. Buses are the major means of public transport in Guwahati. The state-owned Assam State Urban Transport Corporation, a subsidiary of Assam State Transport Corporation (ASTC) and private operators provide the city bus services within the city.",
+            "reach_railway": "The nearest railhead connected to the rest of India is the station of New Jalpaiguri (NJP) in Siliguri, situated 124 km (77 mi) via NH10 away from Gangtok.",
+            "reach_waterways": null,
+            "seo_title": "Gangtok, best time to visit, accommodations and events",
+            "seo_keywords": "Gangtok, Sikkim tourism, North East India tourism, Sikkim Capital, Himalayas",
+            "seo_desc": "Capital of Sikkim and nestled within higher peaks of the Himalaya, enjoying a year-round mild temperate climate, Gangtok is at the centre of Sikkim's tourism industry.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "description": "On way to Yumthang Valley"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "big": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "description": null
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "big": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "description": "On way from Gangtok to Yumthang"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "description": "Kanchenjungha Peak"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "description": "Mountain View"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Udaan Hotels | Woodberry Hotel & Spa",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "free-breakfast",
+                        "bar",
+                        "parking",
+                        "wifi"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/gangtok-udaan-woodberry-hotels-and-spa.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/gangtok-udaan-woodberry-hotels-and-spa.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/gangtok-udaan-woodberry-hotels-and-spa.JPG",
+                            "description": "Udaan Hotels | Woodberry Hotel & Spa"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/gangtok-udaan-woodberry-hotels-and-spa-bedroom.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/gangtok-udaan-woodberry-hotels-and-spa-bedroom.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/gangtok-udaan-woodberry-hotels-and-spa-bedroom.JPG",
+                            "description": "Udaan Hotels | Woodberry Hotel & Spa"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/gangtok-udaan-woodberry-hotels-and-spa-dining.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/gangtok-udaan-woodberry-hotels-and-spa-dining.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/gangtok-udaan-woodberry-hotels-and-spa-dining.JPG",
+                            "description": "Udaan Hotels | Woodberry Hotel & Spa"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sterling Gangtok - Resorts and Hotels",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "bar"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/gangtok-sterling-hotels-resort-bedroom.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/gangtok-sterling-hotels-resort-bedroom.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/gangtok-sterling-hotels-resort-bedroom.JPG",
+                            "description": "Sterling Gangtok - Resorts and Hotels"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/gangtok-sterling-hotels-resort-bedroom-1.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/gangtok-sterling-hotels-resort-bedroom-1.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/gangtok-sterling-hotels-resort-bedroom-1.JPG",
+                            "description": "Sterling Gangtok - Resorts and Hotels"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/gangtok-sterling-hotels-resort-frontdesk.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/gangtok-sterling-hotels-resort-frontdesk.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/gangtok-sterling-hotels-resort-frontdesk.JPG",
+                            "description": "Sterling Gangtok - Resorts and Hotels"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "lachen",
+            "display_name": "Lachen",
+            "title": "Lachen, valley of flora, fauna and a vibrant local culture",
+            "desc_1": "Lachen is a town in North Sikkim district in the Indian state of Sikkim. Lachen means 'big pass'. The town forms the base to the Chopta Valley and Gurudongmar Lake. An annual yak race, the Thangu is held here in summer. Unlike other places in India, Lachen has its unique form of local self governance called the “Dzumsa”. Every household is a member of this traditional administrative system, this institution is in charge of governing and organizing activities within the village.",
+            "desc_2": "Lachen valley has almost everything a traveler could wish for: a land of fairs and festivals, snow-clad mountains, lakes, valley of flora, fauna and a vibrant local culture. The sacred Gurudongmar lake at a height of 17,100 ft encircled by snowy massifs is something one would not dare to miss on a visit to Sikkim. Chopta Valley is located in north of Lachen. Rich with alpine vegetation and rhododendrons, enthralling lakes and rivers add to the beauty of Chopta Valley. A preferred destination with nature lovers.",
+            "sports": null,
+            "best_travel_time": "Throughout the year.",
+            "reach_air": "Nearest airport is Bagdogra.",
+            "reach_road": "Lachen is about 129 kilometres (80 mi) from the capital Gangtok, and can be reached via a six-hour road journey.",
+            "reach_railway": "Nearest railway station is Siliguri.",
+            "reach_waterways": null,
+            "seo_title": "Lachen, best time to visit, accommodations and events",
+            "seo_keywords": "Lachen, Sikkim tourism, North East India tourism, yak race, Thangu, Dzumsa",
+            "seo_desc": "Lachen is a town in North Sikkim district in the Indian state of Sikkim. Lachen means 'big pass'. The town forms the base to the Chopta Valley and Gurudongmar Lake. An annual yak race, the Thangu is held here in summer.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "description": "On way to Yumthang Valley"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "big": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "description": null
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "big": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "description": "On way from Gangtok to Yumthang"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "description": "Kanchenjungha Peak"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "description": "Mountain View"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Apple Orchard Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "bar"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/lachen-apple-orchard-resort.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/lachen-apple-orchard-resort.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/lachen-apple-orchard-resort.JPG",
+                            "description": "Apple Orchard Resort"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/lachen-apple-orchard-resort-bedroom.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/lachen-apple-orchard-resort-bedroom.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/lachen-apple-orchard-resort-bedroom.JPG",
+                            "description": "Apple Orchard Resort"
+                        }
+                    ]
+                },
+                {
+                    "name": "Yarlam Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "bar",
+                        "gym"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/lachen-yarlam-resort.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/lachen-yarlam-resort.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/lachen-yarlam-resort.JPG",
+                            "description": "Yarlam Resort"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "lachung",
+            "display_name": "Lachung",
+            "title": "Lachung, most picturesque village of Sikkim",
+            "desc_1": "Lachung is a town and hill station in northeast Sikkim, India. The word Lachung means 'small pass'. The town is approximately 125 kilometres (78 mi) from the capital Gangtok. Lachung was a trading post between Sikkim and Tibet, after which it was closed down. The town's economy has been boosted by tourism in recent years as the region has been opened up by the Indian government.",
+            "desc_2": "Most of Lachung's inhabitants are of Lepcha and Tibetan descent. Languages spoken here are Nepali, Lepcha and Bhutia.",
+            "sports": null,
+            "best_travel_time": "Tourists come from all over the world to visit the town between October and May. During winter the town is usually covered in snow.",
+            "reach_air": "The nearest airport is Bagdogra airport.",
+            "reach_road": "Pelling is 115 km from the state capital Gangtok and about 135 km from Siliguri, the nearest railhead and airport. Regular jeeps connect Pelling to the towns of Jorethang, Kalimpong and Namchi.",
+            "reach_railway": "The nearest railhead connected to the rest of India is the station of New Jalpaiguri (NJP) in Siliguri, situated 124 km (77 mi) via NH10 away from Gangtok.",
+            "reach_waterways": null,
+            "seo_title": "Lachung, best time to visit, accommodations and events",
+            "seo_keywords": "Lachung, Sikkim tourism, North East India tourism",
+            "seo_desc": "Lachung is a town and hill station in northeast Sikkim, India. The word Lachung means 'small pass'. Lachung was a trading post between Sikkim and Tibet, after which it was closed down. The town's economy has been boosted by tourism in recent years as the region has been opened up by the Indian government.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "description": "On way to Yumthang Valley"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "big": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "description": null
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "big": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "description": "On way from Gangtok to Yumthang"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "description": "Kanchenjungha Peak"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "description": "Mountain View"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Delight Royal Lachung",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/lachung-delight-royal.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/lachung-delight-royal.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/lachung-delight-royal.JPG",
+                            "description": "Delight Royal Lachung"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/lachung-delight-royal-bedroom.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/lachung-delight-royal-bedroom.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/lachung-delight-royal-bedroom.JPG",
+                            "description": "Delight Royal Lachung"
+                        }
+                    ]
+                },
+                {
+                    "name": "Deezong Hotel",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/lachung-deezong-hotel.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/lachung-deezong-hotel.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/lachung-deezong-hotel.JPG",
+                            "description": "Deezong Hotel"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/lachung-deezong-hotel-bedroom.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/lachung-deezong-hotel-bedroom.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/lachung-deezong-hotel-bedroom.JPG",
+                            "description": "Deezong Hotel"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "namchi",
+            "display_name": "Namchi",
+            "title": "Namchi, the pilgrimage centre",
+            "desc_1": "Namchi or Namtse is the capital of the district of South Sikkim in the Indian state of Sikkim. The appellation Namchi means Sky (Nam) High (Chi) in Sikkimese.",
+            "desc_2": "Most of the people of Namchi are Hindus and Buddhists. Languages spoken are Nepali.",
+            "sports": null,
+            "best_travel_time": "Throughout the year.",
+            "reach_air": "The nearest airport is Bagdogra airport.",
+            "reach_road": "It is situated at a distance of 78 kilometres (48 mi) from the state capital Gangtok and 100 kilometres (62 mi) from the town of Siliguri, the nearest railhead and airport. Namchi lies off the road between Melli and Jorethang. Namchi is well connected to other towns in Sikkim and West Bengal. Jeeps and buses regularly ply between Namchi to Gangtok, Pelling, Jorethang, Kalimpong and Siliguri.",
+            "reach_railway": "The nearest railhead connected to the rest of India is the station of New Jalpaiguri (NJP) in Siliguri.",
+            "reach_waterways": null,
+            "seo_title": "Namchi, best time to visit, accommodations and events",
+            "seo_keywords": "Namchi, Sikkim tourism, North East India tourism, Char Dham Temple, Siddeshwar Dham, Samdruptse",
+            "seo_desc": "Namchi or Namtse is the capital of the district of South Sikkim in the Indian state of Sikkim. The appellation Namchi means Sky (Nam) High (Chi) in Sikkimese.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "description": "On way to Yumthang Valley"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "big": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "description": null
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "big": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "description": "On way from Gangtok to Yumthang"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "description": "Kanchenjungha Peak"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "description": "Mountain View"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Summit Sobralia Resort & Spa",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "swimming-pool",
+                        "restaurant",
+                        "parking",
+                        "wifi",
+                        "gym"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/namchi-summit-sobralia-resort-and-spa.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/namchi-summit-sobralia-resort-and-spa.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/namchi-summit-sobralia-resort-and-spa.JPG",
+                            "description": "Summit Sobralia Resort & Spa"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/namchi-summit-sobralia-resort-and-spa-pool.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/namchi-summit-sobralia-resort-and-spa-pool.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/namchi-summit-sobralia-resort-and-spa-pool.JPG",
+                            "description": "Summit Sobralia Resort & Spa"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/namchi-summit-sobralia-resort-and-spa-bedroom.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/namchi-summit-sobralia-resort-and-spa-bedroom.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/namchi-summit-sobralia-resort-and-spa-bedroom.JPG",
+                            "description": "Summit Sobralia Resort & Spa"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dungmali Heritage Village Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "bar"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/namchi-dungmali-heritage-village-resort.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/namchi-dungmali-heritage-village-resort.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/namchi-dungmali-heritage-village-resort.JPG",
+                            "description": "Dungmali Heritage Village Resort"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/namchi-dungmali-heritage-village-resort-bedroom.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/namchi-dungmali-heritage-village-resort-bedroom.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/namchi-dungmali-heritage-village-resort-bedroom.JPG",
+                            "description": "Dungmali Heritage Village Resort"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "pelling",
+            "display_name": "Pelling",
+            "title": "Namchi, the pilgrimage centre",
+            "desc_1": "Pelling is a small hill town in the district of West Sikkim, India. The town is located at a distance of 10 km from the district headquarters of Geyzing and 131km from Gangtok. A regular bus service connects the two towns. However, with the influx of tourists, the region is undergoing a metamorphosis, with the roads being repaired and hotels being set up. The Himalayas and the Kanchenjanga may be viewed at close quarters from Pelling. The land around Pelling is still a virgin territory and is bathed with alpine vegetation, with numerous waterfalls lining the hillside. In the months of winter, Pelling is sometimes covered with a blanket of snow.",
+            "desc_2": "Most of the people of Pelling are Buddhists and speak the Sikkimese language. Other languages spoken are Nepali, Hindi, and English.",
+            "sports": null,
+            "best_travel_time": "Throughout the year.",
+            "reach_air": "The nearest airport is Bagdogra airport.",
+            "reach_road": "Pelling is 115 km from the state capital Gangtok and about 135 km from Siliguri, the nearest railhead and airport. Regular jeeps connect Pelling to the towns of Jorethang, Kalimpong and Namchi.",
+            "reach_railway": "The nearest railhead connected to the rest of India is the station of New Jalpaiguri (NJP) in Siliguri.",
+            "reach_waterways": null,
+            "seo_title": "Pelling, best time to visit, accommodations and events",
+            "seo_keywords": "Pelling, Sikkim tourism, North East India tourism, himalayas, Kanchenjanga",
+            "seo_desc": "Pelling is a small hill town in the district of West Sikkim, India. The land around Pelling is still a virgin territory and is bathed with alpine vegetation, with numerous waterfalls lining the hillside.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "description": "On way to Yumthang Valley"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "big": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "description": null
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "big": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "description": "On way from Gangtok to Yumthang"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "description": "Kanchenjungha Peak"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "description": "Mountain View"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Magpie Pachhu Village Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "parking",
+                        "wifi"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/pelling-magpai-pachu-village-resort.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/pelling-magpai-pachu-village-resort.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/pelling-magpai-pachu-village-resort.JPG",
+                            "description": "Magpie Pachhu Village Resort"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/pelling-magpai-pachu-village-resort-living-room.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/pelling-magpai-pachu-village-resort-living-room.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/pelling-magpai-pachu-village-resort-living-room.JPG",
+                            "description": "Magpie Pachhu Village Resort"
+                        }
+                    ]
+                },
+                {
+                    "name": "Magpie The Chestnut Retreat",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/pelling-magpai-the-chestnut-retreat.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/pelling-magpai-the-chestnut-retreat.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/pelling-magpai-the-chestnut-retreat.JPG",
+                            "description": "Magpie The Chestnut Retreat"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/pelling-magpai-the-chestnut-retreat-bedroom.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/pelling-magpai-the-chestnut-retreat-bedroom.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/pelling-magpai-the-chestnut-retreat-bedroom.JPG",
+                            "description": "Magpie The Chestnut Retreat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ravangla",
+            "display_name": "Ravangla",
+            "title": "Ravangla, birding paradise",
+            "desc_1": "Ravangla or Rawangla or Ravongla is a small tourist town situated at an elevation of 8000 ft in South Sikkim district of the Indian state of Sikkim. It is connected by state highway to other major towns in the state and lies between Pelling and Gangtok. It acts as the starting point for the trek to Maenam Wildlife Sanctuary. Mt. Kanchenjunga, Mt. Pandim, Mt. Siniolchu, Mt. Kabru are just a few of the major peaks that are clearly visible from Ravangla. Upper parts of Ravangla experiences snowfall during winter. During the months of April–May the place is surrounded by many flowers including orchids and rhododendrons.",
+            "desc_2": "Ravangla attracts a lot of Himalayan birds and is a bird watcher's paradise. Birds like verditer flycatchers, blue-fronted redstarts, grey bushchats, dark-throated thrush, blue whistling-thrush, green-backed tit and white-browed fantails can be easily spotted. The forests around Ravangla have other birds like laughingthrushes, babblers, cuckoos and hill partridges. The rare satyr tragopan can also be spotted in Ravangla.",
+            "sports": null,
+            "best_travel_time": "Throughout the year.",
+            "reach_air": "The nearest airport is Bagdogra airport.",
+            "reach_road": "It is approximately 65 km away from the state capital Gangtok and 120 km away from Siliguri, West Bengal.",
+            "reach_railway": "The nearest railhead connected to the rest of India is the station of New Jalpaiguri (NJP) in Siliguri.",
+            "reach_waterways": null,
+            "seo_title": "Ravangla, best time to visit, accommodations and events",
+            "seo_keywords": "Ravangla, Sikkim tourism, North East India tourism, Maenam Wildlife Sanctuary",
+            "seo_desc": "Ravangla or Rawangla or Ravongla is a small tourist town situated at an elevation of 8000 ft in South Sikkim district of the Indian state of Sikkim. It is connected by state highway to other major towns in the state and lies between Pelling and Gangtok. It acts as the starting point for the trek to Maenam Wildlife Sanctuary.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "description": "On way to Yumthang Valley"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "big": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "description": null
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "big": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "description": "On way from Gangtok to Yumthang"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "description": "Kanchenjungha Peak"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "description": "Mountain View"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Buddha Retreat",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "pet-friendly",
+                        "parking",
+                        "bar",
+                        "wifi"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/ravangla-buddha-retreat.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/ravangla-buddha-retreat.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/ravangla-buddha-retreat.JPG",
+                            "description": "Buddha Retreat"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/ravangla-buddha-retreat-bedroom.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/ravangla-buddha-retreat-bedroom.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/ravangla-buddha-retreat-bedroom.JPG",
+                            "description": "Buddha Retreat"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/ravangla-buddha-retreat-living-room.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/ravangla-buddha-retreat-living-room.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/ravangla-buddha-retreat-living-room.JPG",
+                            "description": "Buddha Retreat"
+                        }
+                    ]
+                },
+                {
+                    "name": "The Barfung Retreat",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "free-breakfast",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/ravangla-barfung-retreat.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/ravangla-barfung-retreat.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/ravangla-barfung-retreat.JPG",
+                            "description": "The Barfung Retreat"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/ravangla-barfung-retreat-bedroom.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/ravangla-barfung-retreat-bedroom.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/ravangla-barfung-retreat-bedroom.JPG",
+                            "description": "The Barfung Retreat"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/ravangla-barfung-retreat-dining.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/ravangla-barfung-retreat-dining.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/ravangla-barfung-retreat-dining.JPG",
+                            "description": "The Barfung Retreat"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "yuksom",
+            "display_name": "Yuksom",
+            "title": "Yuksom, Throne of Norbugang",
+            "desc_1": "Yuksom is a historical town in Geyzing subdivision of West Sikkim district in the Northeast Indian state of Sikkim. It was the first capital of Sikkim established in 1642 AD by Phuntsog Namgyal who was the first Chogyal (temporal and religious king) of Sikkim. Yuksom literally means the 'meeting place of the three learned monks'. Yuksom is considered a model village for eco-tourism.",
+            "desc_2": "Ravangla attracts a lot of Himalayan birds and is a bird watcher's paradise. Birds like verditer flycatchers, blue-fronted redstarts, grey bushchats, dark-throated thrush, blue whistling-thrush, green-backed tit and white-browed fantails can be easily spotted. The forests around Ravangla have other birds like laughingthrushes, babblers, cuckoos and hill partridges. The rare satyr tragopan can also be spotted in Ravangla.",
+            "sports": null,
+            "best_travel_time": "Throughout the year.",
+            "reach_air": "The nearest airport is Bagdogra airport.",
+            "reach_road": "Pelling is 121 km from the state capital Gangtok and about 144 km from Siliguri, the nearest railhead and airport. Regular jeeps connect Yuksom to other major towns of Sikkim.",
+            "reach_railway": "The nearest railhead connected to the rest of India is the station of New Jalpaiguri (NJP) in Siliguri.",
+            "reach_waterways": null,
+            "seo_title": "Yuksom, best time to visit, accommodations and events",
+            "seo_keywords": "Yuksom, Sikkim tourism, North East India tourism, Phuntsog Namgyal, Chogyal",
+            "seo_desc": "Yuksom is a historical town in Geyzing subdivision of West Sikkim district in the Northeast Indian state of Sikkim. It was the first capital of Sikkim established in 1642 AD by Phuntsog Namgyal who was the first Chogyal (temporal and religious king) of Sikkim. Yuksom literally means the 'meeting place of the three learned monks'. Yuksom is considered a model village for eco-tourism.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "description": "On way to Yumthang Valley"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "big": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "description": null
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "big": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "description": "On way from Gangtok to Yumthang"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "description": "Kanchenjungha Peak"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "description": "Mountain View"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Ejam Residency",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "bar"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/yoksom-ejam-residency.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/yoksom-ejam-residency.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/yoksom-ejam-residency.JPG",
+                            "description": "Ejam Residency"
+                        }
+                    ]
+                },
+                {
+                    "name": "Limboo Homestay",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "free-breakfast",
+                        "parking",
+                        "pet-friendly"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/yoksom-limboo-homestay.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/yoksom-limboo-homestay.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/yoksom-limboo-homestay.JPG",
+                            "description": "Limboo Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/sikkim/accommodation/yoksom-limboo-homestay-dining.JPG",
+                            "medium": "assets/images/static/sikkim/accommodation/yoksom-limboo-homestay-dining.JPG",
+                            "big": "assets/images/static/sikkim/accommodation/yoksom-limboo-homestay-dining.JPG",
+                            "description": "Limboo Homestay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "yumthang-valley",
+            "display_name": "Yumthang",
+            "title": "Yumthang, valley of flowers",
+            "desc_1": "The Yumthang Valley or Sikkim Valley of Flowers sanctuary, is a nature sanctuary with river, hot springs, yaks and grazing pasture on rolling meadows surrounded by the Himalayan mountains in the North Sikkim district of Sikkim state in India.",
+            "desc_2": "It is popularly known as 'Valley of Flowers' and is home to the Shingba Rhododendron Sanctuary, which has over twenty-four species of the rhododendron, the state flower. The flowering season is from late February and to mid June, when countless flowers bloom to carpet the valley in multicolored hues of rainbow. A tributary of the river Teesta flows past the valley and the town of Lachung, the nearest inhabited centre. There is also a hot spring in the valley. A forest rest house is the only permanent residence in the valley. During the spring months, the area blooms with rhododendrons, primulas, poppies, iris and other flora.",
+            "sports": null,
+            "best_travel_time": "February and to mid June. Yumthang is closed between December and March due to heavy snowfall.",
+            "reach_air": "The nearest airport is Bagdogra airport.",
+            "reach_road": "Tourists may travel from Gangtok to Lachung (the nearest village where accommodation is available) by booking a full vehicle or shared one and stay over night. A direct journey to Yumthang is not feasible as roads are commonly foggy and it becomes dark very early around 5:30 pm. A trip to the Valley takes around two hours from Lachung, which is about 125 km from Gangtok.",
+            "reach_railway": "The nearest railhead connected to the rest of India is the station of New Jalpaiguri (NJP) in Siliguri.",
+            "reach_waterways": null,
+            "seo_title": "Yumthang, best time to visit, accommodations and events",
+            "seo_keywords": "Yumthang, Sikkim tourism, North East India tourism, Valley of flowers",
+            "seo_desc": "The Yumthang Valley or Sikkim Valley of Flowers sanctuary, is a nature sanctuary with river, hot springs, yaks and grazing pasture on rolling meadows surrounded by the Himalayan mountains in the North Sikkim district of Sikkim state in India.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-valley-yak.jpg",
+                    "description": "On way to Yumthang Valley"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "big": "assets/images/static/sikkim/gallery/pelling-night.jpg",
+                    "description": null
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "big": "assets/images/static/sikkim/gallery/gangtok-to-yumthang-road.jpg",
+                    "description": "On way from Gangtok to Yumthang"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-kanchenjungha-peak.jpg",
+                    "description": "Kanchenjungha Peak"
+                },
+                {
+                    "small": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "medium": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "big": "assets/images/static/sikkim/gallery/sikkim-mountain-view.jpg",
+                    "description": "Mountain View"
+                }
+            ],
+            "accommodations": []
+        }
+    ]
+}

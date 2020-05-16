@@ -1,0 +1,165 @@
+<div class="col-sm-10">
+    <div class="well">
+        <h4>Inventory</h4>
+        <p class="sub-heading">PRODUCT INVENTORY DETAILS</p>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <button id="btnCreate" class="btn btn-basic" style="float: right;" data-toggle="modal"
+                data-target="#dataModal" (click)="form.reset();resetForm()"><span class="fa fa-plus"></span> Add
+                Product</button>
+        </div>
+    </div>
+    <div class="row" style="padding-bottom: 70px;">
+        <div class="col-sm-12">
+            <mat-form-field>
+                <mat-label>Filter</mat-label>
+                <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Eggs">
+            </mat-form-field>
+
+            <div class="mat-elevation-z8">
+                <table mat-table [dataSource]="dataSource" matSort class="material-table">
+
+                    <!-- Name Column -->
+                    <ng-container matColumnDef="name">
+                        <th mat-header-cell *matHeaderCellDef mat-sort-header> Name </th>
+                        <td mat-cell *matCellDef="let row"> {{row.name}} </td>
+                    </ng-container>
+
+                    <!-- Product Type Column -->
+                    <ng-container matColumnDef="product_type_name">
+                        <th mat-header-cell *matHeaderCellDef mat-sort-header> Product Type </th>
+                        <td mat-cell *matCellDef="let row"> {{row.product_type_name}} </td>
+                    </ng-container>
+
+                    <!-- Price Column -->
+                    <ng-container matColumnDef="price">
+                        <th mat-header-cell *matHeaderCellDef mat-sort-header> Price </th>
+                        <td mat-cell *matCellDef="let row"> {{row.price}} </td>
+                    </ng-container>
+
+                    <!-- Units Column -->
+                    <ng-container matColumnDef="units">
+                        <th mat-header-cell *matHeaderCellDef mat-sort-header> Units </th>
+                        <td mat-cell *matCellDef="let row"> {{row.units}} </td>
+                    </ng-container>
+
+                    <!-- Action Column -->
+                    <ng-container matColumnDef="actions">
+                        <th mat-header-cell *matHeaderCellDef style="text-align: center;"> Action </th>
+                        <td mat-cell *matCellDef="let row" class="action-link" style="white-space: nowrap">
+                            <button mat-button title="Edit" (click)="editData(row.product_id)"><span
+                                    class="glyphicon glyphicon-edit"></span></button>
+                            <button mat-button title="Delete" (click)="deleteDataConfirmation(row.product_id)"><span
+                                    class="glyphicon glyphicon-trash glyphicon-red"></span></button>
+                        </td>
+                    </ng-container>
+
+                    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                    <tr mat-row *matRowDef="let row; columns: displayedColumns;">
+                    </tr>
+                </table>
+
+                <mat-paginator [length]="resultsLength" [pageSize]="resultsLength"></mat-paginator>
+            </div>
+        </div>
+    </div>
+</div>
+<button id="btnEdit" style="display: none;" data-toggle="modal" data-target="#dataModal">Edit</button>
+<!-- Product Modal -->
+<div class="custom-modal modal fade" id="dataModal" tabindex="-1" role="dialog" aria-labelledby="dataModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title"><span class="fa fa-info-circle"></span> Product Info</h4>
+            </div>
+            <form #form class="ods-form" (ngSubmit)="saveData()" role="form" action="" method="post"
+                enctype="multipart/form-data" autocomplete="off">
+                <div class="modal-body">
+                    <mat-form-field class="ods-full-width">
+                        <input matInput #name id="name" name="name" required maxlength="50" placeholder="Name"
+                            [formControl]="nameFormControl" [(ngModel)]="data.name"
+                            (keypress)="omitSpecialChar($event)">
+                        <mat-hint align="end">{{name.value.length}} / 50</mat-hint>
+                        <mat-error *ngIf="nameFormControl.hasError('required')">
+                            Name is <strong>required</strong>
+                        </mat-error>
+                    </mat-form-field>
+                    <mat-form-field class="ods-full-width">
+                        <textarea matInput #desc id="desc" name="desc" required maxlength="250"
+                            placeholder="Description" [formControl]="descFormControl" [(ngModel)]="data.desc"
+                            cdkTextareaAutosize #autosize="cdkTextareaAutosize" cdkAutosizeMinRows="5"
+                            cdkAutosizeMaxRows="5"></textarea>
+                        <mat-hint align="end">{{desc.value.length}} / 250</mat-hint>
+                        <mat-error *ngIf="descFormControl.hasError('required')">
+                            Description is <strong>required</strong>
+                        </mat-error>
+                        <mat-error *ngIf="descFormControl.hasError('maxlength')">
+                            Length cannot be more than 250 characters
+                        </mat-error>
+                    </mat-form-field>
+                    <mat-form-field>
+                        <mat-label>Product Type</mat-label>
+                        <select matNativeControl required [(ngModel)]="data.product_type" id="product_type"
+                            name="product_type">
+                            <option value="598c96b8-3b24-465a-afbc-a2f3af58da12">Chicken</option>
+                            <option value="b36948c1-37a2-46fd-95c5-94681a042f0b">Mutton</option>
+                            <option value="f0ca968a-ed20-47d6-a964-16bc3c9edde9">Pork</option>
+                            <option value="35f6c81e-8ca1-496b-b5c1-e12aa33e875f">Eggs</option>
+                        </select>
+                        <mat-hint align="start"><strong>Chicken, Mutton, Pork, Eggs etc.</strong>
+                        </mat-hint>
+                        <mat-error *ngIf="productTypeFormControl.hasError('required')">
+                            Product Type is <strong>required</strong>
+                        </mat-error>
+                    </mat-form-field>
+                    <mat-form-field class="ods-half-width">
+                        <input matInput #price id="price" name="price" type="number" required placeholder="Price"
+                            [formControl]="priceFormControl" [(ngModel)]="data.price">
+                        <mat-error *ngIf="priceFormControl.hasError('required')">
+                            Price is <strong>required</strong>
+                        </mat-error>
+                    </mat-form-field>
+                    <mat-label style="color: #757575;">Units *</mat-label>
+                    <div class="input-group form-control-div" style="width: 200px;">
+                        <span class="input-group-addon addon-width"><a href="javascript:void(0);"
+                                (click)="decreaseUnit()"><i class="fa fa-minus"></i></a></span>
+                        <input id="units" class="form-control" minlength="1" maxlength="3" name="units" type="number"
+                            [(ngModel)]="data.units" placeholder="0">
+                        <span class="input-group-addon addon-width"><a href="javascript:void(0);"
+                                (click)="increaseUnit()"><i class="fa fa-plus"></i></a></span>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button id="btnCancel" class="btn btn-default" type="button" data-dismiss="modal">Cancel</button>
+                    <button id="btnSave" class="btn btn-success" type="button" type="submit">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- Delete Confirmation Modal -->
+<button type="button" style="display: none;" class="btn btn-info " id="btnDeleteConfirmModal" data-toggle="modal"
+    data-target="#deleteConfirmModal">Delete Confirmation Modal</button>
+<div class="custom-error-modal modal fade" id="deleteConfirmModal" tabindex="-1" role="dialog"
+    aria-labelledby="deleteConfirmModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title"><span class="glyphicon glyphicon-question-sign"
+                        style="color: red;"></span>&nbsp;<font style="color: darkred;">Delete?</font>
+                </h4>
+            </div>
+            <div class="modal-body">
+                <h4>Are you sure want to delete?</h4>
+            </div>
+            <div class="modal-footer">
+                <button id="btnDeleteCancel" class="btn btn-default" type="button" data-dismiss="modal">Cancel</button>
+                <button class="btn btn-danger" type="button" (click)="deleteData(delId)">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>

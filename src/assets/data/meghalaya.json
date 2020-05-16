@@ -1,0 +1,373 @@
+{
+    "name": "meghalaya",
+    "display_name": "Meghalaya",
+    "places": [
+        {
+            "name": "cherrapunji",
+            "display_name": "Cherrapunji",
+            "title": "Cherrapunji, wettest place on Earth",
+            "desc_1": "Cherrapunji with the native name Sohra being more commonly used, and can also be spelled Cherrapunjee or Cherrapunji) is a subdivisional town in the East Khasi Hills district in the Indian state of Meghalaya. It is the traditional capital of ka hima Nongkhlaw (Khasi tribal kingdom). Cherrapunji, meaning 'land of oranges', which was first used by tourists from other parts of India.",
+            "desc_2": "Cherrapunji has often been credited as being the wettest place on Earth, but for now nearby Mawsynram currently holds that distinction. Cherrapunji still holds the all-time record for the most rainfall in a calendar month and in a year.",
+            "sports": null,
+            "best_travel_time": "Throughout the year. If you like rainfall, monsoon is the best time.",
+            "reach_air": null,
+            "reach_road": "Vehicle can be hired from Shillong. State transport buses are also available.",
+            "reach_railway": null,
+            "reach_waterways": null,
+            "seo_title": "Cherrapunji weather, best time to visit, accommodations and events",
+            "seo_keywords": "Cherrapunji, Meghalaya tourism, North East India tourism, Heighest Rainfall, Root Bridge",
+            "seo_desc": "Cherrapunji, meaning 'land of oranges'. Cherrapunji has often been credited as being the wettest place on Earth. It is the traditional capital of ka hima Nongkhlaw (Khasi tribal kingdom).",
+            "gallery": [
+                {
+                    "small": "assets/images/static/meghalaya/gallery/cherrapunji-nohkalikai-falls.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/cherrapunji-nohkalikai-falls.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/cherrapunji-nohkalikai-falls.jpg",
+                    "description": "Cherrapunji Nohkalikai Falls"
+                },
+                {
+                    "small": "assets/images/static/meghalaya/gallery/krang-shuri-waterfall.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/krang-shuri-waterfall.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/krang-shuri-waterfall.jpg",
+                    "description": "Krang Shuri Waterfall"
+                },
+                {
+                    "small": "assets/images/static/meghalaya/gallery/meghalaya-hills.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/meghalaya-hills.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/meghalaya-hills.jpg",
+                    "description": "Meghalaya Hills"
+                },
+                {
+                    "small": "assets/images/static/meghalaya/gallery/hanging-bridge.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/hanging-bridge.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/hanging-bridge.jpg",
+                    "description": "Hanging Bridge"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Jiva Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking",
+                        "gym"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/cherrapunji-jiva-resort-1.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/cherrapunji-jiva-resort-1.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/cherrapunji-jiva-resort-1.JPG",
+                            "description": "Jiva Resort"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/cherrapunji-jiva-resort-bedroom.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/cherrapunji-jiva-resort-bedroom.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/cherrapunji-jiva-resort-bedroom.JPG",
+                            "description": "Jiva Resort"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/cherrapunji-jiva-resort-dining.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/cherrapunji-jiva-resort-dining.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/cherrapunji-jiva-resort-dining.JPG",
+                            "description": "Jiva Resort"
+                        }
+                    ]
+                },
+                {
+                    "name": "San Nael La Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant",
+                        "free-breakfast",
+                        "parking",
+                        "wifi"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/cherrapunji-san-nael-la-resort.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/cherrapunji-san-nael-la-resort.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/cherrapunji-san-nael-la-resort.JPG",
+                            "description": "San Nael La Resort"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/cherrapunji-san-nael-la-resort-bedroom.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/cherrapunji-san-nael-la-resort-bedroom.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/cherrapunji-san-nael-la-resort-bedroom.JPG",
+                            "description": "San Nael La Resort"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "dawki",
+            "display_name": "Dawki",
+            "title": "Dawki, take a boat ride at Umngot river",
+            "desc_1": "Dawki or Dauki is a town in West Jaintia Hills district, Meghalaya, India. It is located in India-Bangladesh border.",
+            "desc_2": null,
+            "sports": null,
+            "best_travel_time": "Throughout the year.",
+            "reach_air": null,
+            "reach_road": "Vehicle can be hired from Shillong and Cherrapunji.",
+            "reach_railway": null,
+            "reach_waterways": null,
+            "seo_title": "Dawki, best time to visit, accommodations and events",
+            "seo_keywords": "Dawki, Meghalaya tourism, North East India tourism, dawki river, dawki lake, umongot river",
+            "seo_desc": "Dawki or Dauki is a town in West Jaintia Hills district, Meghalaya, India.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/meghalaya/gallery/dawki-umngot-river.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/dawki-umngot-river.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/dawki-umngot-river.jpg",
+                    "description": "Umngot River"
+                },
+                {
+                    "small": "assets/images/static/meghalaya/gallery/dawki-umngot-river-boating.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/dawki-umngot-river-boating.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/dawki-umngot-river-boating.jpg",
+                    "description": "Umngot River Boating"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Betelnut Restaurant & Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/dawki-betelnut-resort.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/dawki-betelnut-resort.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/dawki-betelnut-resort.JPG",
+                            "description": "Betelnut Restaurant & Resort"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/dawki-betelnut-resort-bedroom.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/dawki-betelnut-resort-bedroom.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/dawki-betelnut-resort-bedroom.JPG",
+                            "description": "Betelnut Restaurant & Resort"
+                        }
+                    ]
+                },
+                {
+                    "name": "Jainta Hill's Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/cherrapunji-san-nael-la-resort.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/cherrapunji-san-nael-la-resort.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/cherrapunji-san-nael-la-resort.JPG",
+                            "description": "Jainta Hill's Resort"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/mawlynong-areca-cottage.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/mawlynong-areca-cottage.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/mawlynong-areca-cottage.JPG",
+                            "description": "Jainta Hill's Resort"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "mawlynnong",
+            "display_name": "Mawlynnong",
+            "title": "Mawlynnong, Asia's cleanest village",
+            "desc_1": "Mawlynnong is a village in the East Khasi Hills district of the Meghalaya state in North East India. It is notable for its cleanliness.",
+            "desc_2": null,
+            "sports": null,
+            "best_travel_time": "Throughout the year.",
+            "reach_air": null,
+            "reach_road": "Vehicle can be hired from Shillong and Cherrapunji.",
+            "reach_railway": null,
+            "reach_waterways": null,
+            "seo_title": "Mawlynnong weather, best time to visit, accommodations and events",
+            "seo_keywords": "Mawlynnong, Meghalaya tourism, North East India tourism, Asia's cleanest village, Living root bridge",
+            "seo_desc": "Mawlynnong is a village in the East Khasi Hills district of the Meghalaya state in North East India. It is notated as the Asia's cleanest village.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/meghalaya/gallery/mawlynnong-living-root-bridge.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/mawlynnong-living-root-bridge.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/mawlynnong-living-root-bridge.jpg",
+                    "description": "Living Root Bridge"
+                },
+                {
+                    "small": "assets/images/static/meghalaya/gallery/mawlynnong-village-1.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/mawlynnong-village-1.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/mawlynnong-village-1.jpg",
+                    "description": "Mawlynnong Village"
+                },
+                {
+                    "small": "assets/images/static/meghalaya/gallery/mawlynnong-village.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/mawlynnong-village.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/mawlynnong-village.jpg",
+                    "description": "Mawlynnong Village"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Kutmadan Resort",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "restaurant",
+                        "free-breakfast",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/mawlynong-kutmadan-resort.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/mawlynong-kutmadan-resort.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/mawlynong-kutmadan-resort.JPG",
+                            "description": "Kutmadan Resort"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/mawlynong-kutmadan-resort-bedroom.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/mawlynong-kutmadan-resort-bedroom.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/mawlynong-kutmadan-resort-bedroom.JPG",
+                            "description": "Kutmadan Resort"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/mawlynong-kutmadan-resort-dinind.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/mawlynong-kutmadan-resort-dinind.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/mawlynong-kutmadan-resort-dinind.JPG",
+                            "description": "Kutmadan Resort"
+                        }
+                    ]
+                },
+                {
+                    "name": "Areca Cottages",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/mawlynong-areca-cottage.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/mawlynong-areca-cottage.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/mawlynong-areca-cottage.JPG",
+                            "description": "Areca Cottages"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/mawlynong-areca-cottage-bedroom.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/mawlynong-areca-cottage-bedroom.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/mawlynong-areca-cottage-bedroom.JPG",
+                            "description": "Areca Cottages"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "shillong",
+            "display_name": "Shillong",
+            "title": "Shillong, The Abode of Clouds",
+            "desc_1": "Shillong is a hill station in the northeastern part of India and the capital of Meghalaya, which means 'The Abode of Clouds' and is one of the smallest states in India. It is the headquarters of the East Khasi Hills district and is situated at an average altitude of 4,908 feet (1,496 m) above sea level, with the highest point being Shillong Peak at 6,449 feet (1,966 m). It is said that the rolling hills around the town reminded the European settlers of Scotland. Hence, they would also refer to it as the 'Scotland of the East'. Shillong, the capital city of Meghalaya is just 100 km (62 mi) from Guwahati which can be accessed by road along NH 40, a journey of about 2 hours 30 minutes through lush green hills and the magnificent Umiam lake in between.",
+            "desc_2": "Weather conditions in Shillong are typically pleasant, pollution-free. In the summer the temperature varies from 23 °C (73 °F). In the winter the temperature varies from 4 °C (39 °F).",
+            "sports": null,
+            "best_travel_time": "Its summers are cool and very rainy, while its winters are cool and dry. Shillong is subject to vagaries of the monsoon. The monsoons arrive in June and it rains almost until the end of August. October–November and March–April are the best months to visit Shillong.",
+            "reach_air": "Umroi Airport located 30 kilometres (19 mi) from the city centre has only limited flights. Since 2017, there are daily flights between the city with Jorhat and Kolkata.",
+            "reach_road": "Shillong is well connected by roads with all major northeastern states. Two major National Highways pass through. National Highway 40 (India) – Connected to Guwahati. National Highway 44 (India) – Connected to Tripura & Mizoram (NH 44A). Private bus operators, as well as state transport buses from other states, come to and from Shillong daily. Taxi services are also available to destination like Guwahati, Agartala, Dimapur, Aizawl and other North Eastern towns and cities. The Shillong Bypass (pictured) is a two lane road which stretches across 47.06 kilometres (29.2 mi) connecting Umiam (NH-40) to Jorabad (NH-44) which then leads to other North-Eastern Indian states of Mizoram and Tripura.",
+            "reach_railway": null,
+            "reach_waterways": null,
+            "seo_title": "Shillong weather, best time to visit, accommodations and events",
+            "seo_keywords": "Shillong, Meghalaya tourism, North East India tourism, Heighest Rainfall, Root Bridge",
+            "seo_desc": "Shillong is a hill station in the northeastern part of India and the capital of Meghalaya, which means 'The Abode of Clouds' and is one of the smallest states in India.",
+            "gallery": [
+                {
+                    "small": "assets/images/static/meghalaya/gallery/cherrapunji-nohkalikai-falls.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/cherrapunji-nohkalikai-falls.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/cherrapunji-nohkalikai-falls.jpg",
+                    "description": "Cherrapunji Nohkalikai Falls"
+                },
+                {
+                    "small": "assets/images/static/meghalaya/gallery/krang-shuri-waterfall.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/krang-shuri-waterfall.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/krang-shuri-waterfall.jpg",
+                    "description": "Krang Shuri Waterfall"
+                },
+                {
+                    "small": "assets/images/static/meghalaya/gallery/shillong-cherry-blossom.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/shillong-cherry-blossom.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/shillong-cherry-blossom.jpg",
+                    "description": "Cherry Blossom"
+                },
+                {
+                    "small": "assets/images/static/meghalaya/gallery/shillong-view-point.jpg",
+                    "medium": "assets/images/static/meghalaya/gallery/shillong-view-point.jpg",
+                    "big": "assets/images/static/meghalaya/gallery/shillong-view-point.jpg",
+                    "description": "View Point"
+                }
+            ],
+            "accommodations": [
+                {
+                    "name": "Gayaboo’s Traditional Homestay",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/shillong-hotel-polo-towers.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/shillong-hotel-polo-towers.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/shillong-hotel-polo-towers.JPG",
+                            "description": "Gayaboo’s Traditional Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/shillong-hotel-polo-towers-bedroom.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/shillong-hotel-polo-towers-bedroom.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/shillong-hotel-polo-towers-bedroom.JPG",
+                            "description": "Gayaboo’s Traditional Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/shillong-hotel-polo-towers-dining.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/shillong-hotel-polo-towers-dining.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/shillong-hotel-polo-towers-dining.JPG",
+                            "description": "Gayaboo’s Traditional Homestay"
+                        }
+                    ]
+                },
+                {
+                    "name": "Yargyap Chhu Homestay",
+                    "review_count": 0,
+                    "rating": 0,
+                    "ammenities": [
+                        "breakfast",
+                        "parking"
+                    ],
+                    "gallery": [
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/shillong-windermere-resort.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/shillong-windermere-resort.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/shillong-windermere-resort.JPG",
+                            "description": "Yargyap Chhu Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/shillong-windermere-resort-bedroom.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/shillong-windermere-resort-bedroom.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/shillong-windermere-resort-bedroom.JPG",
+                            "description": "Yargyap Chhu Homestay"
+                        },
+                        {
+                            "small": "assets/images/static/meghalaya/accommodation/shillong-windermere-resort-dining.JPG",
+                            "medium": "assets/images/static/meghalaya/accommodation/shillong-windermere-resort-dining.JPG",
+                            "big": "assets/images/static/meghalaya/accommodation/shillong-windermere-resort-dining.JPG",
+                            "description": "Yargyap Chhu Homestay"
+                        }
+                    ]
+                }
+            ]
+        }    
+    ]
+}

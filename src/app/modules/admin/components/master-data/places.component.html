@@ -1,0 +1,118 @@
+<div class="col-sm-10">
+    <div class="well">
+        <h4>Places</h4>
+        <p class="sub-heading">PLACES OF BUSINESS</p>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <button id="btnCreate" class="btn btn-basic" style="float: right;" data-toggle="modal"
+                data-target="#formModal" (click)="form.reset();resetForm()"><span class="fa fa-plus"></span> Add
+                Place</button>
+        </div>
+    </div>
+    <div class="row" style="padding-bottom: 70px;">
+        <div class="col-sm-12">
+            <mat-form-field>
+                <mat-label>Filter</mat-label>
+                <input matInput (keyup)="applyFilter($event)" placeholder="Ex. Six Mile">
+            </mat-form-field>
+
+            <div class="mat-elevation-z8">
+                <table mat-table [dataSource]="dataSource" matSort class="material-table">
+
+                    <!-- Name Column -->
+                    <ng-container matColumnDef="name">
+                        <th mat-header-cell *matHeaderCellDef mat-sort-header> Name </th>
+                        <td mat-cell *matCellDef="let row"> {{row.name}} </td>
+                    </ng-container>
+
+                    <!-- Locality Column -->
+                    <ng-container matColumnDef="pincode">
+                        <th mat-header-cell *matHeaderCellDef mat-sort-header> Pincode </th>
+                        <td mat-cell *matCellDef="let row"> {{row.pincode}} </td>
+                    </ng-container>
+
+                    <!-- Action Column -->
+                    <ng-container matColumnDef="actions">
+                        <th mat-header-cell *matHeaderCellDef style="text-align: center;"> Action </th>
+                        <td mat-cell *matCellDef="let row" class="action-link" style="white-space: nowrap">
+                            <button mat-button title="Edit" (click)="editData(row.place_id)"><span
+                                    class="glyphicon glyphicon-edit"></span></button>
+                            <button mat-button title="Delete" (click)="deleteDataConfirmation(row.place_id)"><span
+                                    class="glyphicon glyphicon-trash glyphicon-red"></span></button>
+                        </td>
+                    </ng-container>
+
+                    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+                    <tr mat-row *matRowDef="let row; columns: displayedColumns;">
+                    </tr>
+                </table>
+
+                <mat-paginator [length]="resultsLength" [pageSize]="resultsLength"></mat-paginator>
+            </div>
+        </div>
+    </div>
+</div>
+<button id="btnEdit" style="display: none;" data-toggle="modal" data-target="#formModal">Edit</button>
+<!-- Form Modal -->
+<div class="custom-modal modal fade" id="formModal" tabindex="-1" role="dialog" aria-labelledby="formModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title"><span class="fa fa-info-circle"></span> Place Info</h4>
+            </div>
+            <form #form class="ods-form" (ngSubmit)="saveData()" role="form" action="" method="post"
+                enctype="multipart/form-data" autocomplete="off">
+                <div class="modal-body">
+                    <mat-form-field class="ods-full-width">
+                        <input matInput #name id="name" name="name" required maxlength="50" placeholder="Name"
+                            [formControl]="nameFormControl" [(ngModel)]="data.name"
+                            (keypress)="omitSpecialChar($event)">
+                        <mat-hint align="end">{{name.value.length}} / 100</mat-hint>
+                        <mat-error *ngIf="nameFormControl.hasError('required')">
+                            Name is <strong>required</strong>
+                        </mat-error>
+                    </mat-form-field>
+                    <mat-form-field class="ods-full-width">
+                        <input matInput #pincode id="pincode" name="pincode" required maxlength="6" placeholder="Pincode"
+                            [formControl]="pincodeFormControl" [(ngModel)]="data.pincode"
+                            (keypress)="omitSpecialChar($event)">
+                        <mat-hint align="end">{{name.value.length}} / 6</mat-hint>
+                        <mat-error *ngIf="pincodeFormControl.hasError('required')">
+                            Pincode is <strong>required</strong>
+                        </mat-error>
+                    </mat-form-field>
+                </div>
+                <div class="modal-footer">
+                    <button id="btnCancel" class="btn btn-default" type="button" data-dismiss="modal">Cancel</button>
+                    <button id="btnSave" class="btn btn-success" type="button" type="submit">Save</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+<!-- Delete Confirmation Modal -->
+<button type="button" style="display: none;" class="btn btn-info " id="btnDeleteConfirmModal" data-toggle="modal"
+    data-target="#deleteConfirmModal">Delete Confirmation Modal</button>
+<div class="custom-error-modal modal fade" id="deleteConfirmModal" tabindex="-1" role="dialog"
+    aria-labelledby="deleteConfirmModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title"><span class="glyphicon glyphicon-question-sign"
+                        style="color: red;"></span>&nbsp;<font style="color: darkred;">Delete?</font>
+                </h4>
+            </div>
+            <div class="modal-body">
+                <h4>Are you sure want to delete?</h4>
+            </div>
+            <div class="modal-footer">
+                <button id="btnDeleteCancel" class="btn btn-default" type="button" data-dismiss="modal">Cancel</button>
+                <button class="btn btn-danger" type="button" (click)="deleteData(delId)">Confirm</button>
+            </div>
+        </div>
+    </div>
+</div>
